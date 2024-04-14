@@ -1,0 +1,6 @@
+https://pypi.org/project/beautifulsoup4/
+
+https://pandas.pydata.org/
+
+
+https://matplotlib.org/
